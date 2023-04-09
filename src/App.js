@@ -5,7 +5,7 @@ import HomePage from './Homepage';
 function App() {
   return (
     <>
-   <h2>Crud Operation1</h2>
+   <h2>Crud veg operation</h2>
    <HomePage/>
    
    </>
